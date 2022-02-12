@@ -1,0 +1,28 @@
+.root {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.left,
+.right {
+  width: 100%;
+  padding: 30px 20px;
+}
+
+.form-field {
+  width: 100%;
+}
+
+.subtitle {
+  margin-right: 20px;
+}
+
+.color {
+  margin: 0 auto;
+  max-width: 300px;
+}
+
